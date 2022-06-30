@@ -13,3 +13,13 @@ def sum_squares(x):
     return sum
 
 print(sum_squares(10)) # Should be 285
+
+#Sums, Averages
+values=[ 14, 41, 56, 69, 74 ]
+sum = 0
+length = 0
+for value in values:
+    sum += value
+    length += 1
+
+print ("Total Sum: " + str(sum) + " - Average: " + str(sum/length))
