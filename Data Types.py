@@ -1,5 +1,5 @@
 a = type(1)
-b = type(1.5)
+b = type(1.50)
 c = type(True)
 d = type("One")
 print("The number 1 is a.. " + str(a) + " ..Int, is short for Integer.")

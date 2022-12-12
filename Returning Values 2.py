@@ -9,4 +9,3 @@ def convert_seconds(seconds):
 
 hours, minutes, seconds = convert_seconds(4000)
 print(hours, minutes, seconds)
-
