@@ -1,3 +1,3 @@
 #Bash
-for i in {1..10}; do
+for i in {1..100}; do
     echo Hello World!
