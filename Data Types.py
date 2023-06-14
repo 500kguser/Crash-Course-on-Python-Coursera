@@ -1,3 +1,4 @@
+#Data Types
 a = type(1)
 b = type(1.50)
 c = type(True)
